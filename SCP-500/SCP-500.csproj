@@ -8,6 +8,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\..\ref\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\..\..\ref\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\..\..\..\ref\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="CommandSystem.Core">
+      <HintPath>..\..\..\..\..\..\ref\CommandSystem.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Exiled.API">
       <HintPath>..\..\..\..\..\..\ref\Exiled.API.dll</HintPath>
     </Reference>
@@ -23,8 +35,20 @@
     <Reference Include="Exiled.Permissions">
       <HintPath>..\..\..\..\..\..\ref\Exiled.Permissions.dll</HintPath>
     </Reference>
+    <Reference Include="Mirror">
+      <HintPath>..\..\..\..\..\..\ref\Mirror.dll</HintPath>
+    </Reference>
+    <Reference Include="NorthwoodLib">
+      <HintPath>..\..\..\..\..\..\ref\NorthwoodLib.dll</HintPath>
+    </Reference>
+    <Reference Include="PluginAPI">
+      <HintPath>..\..\..\..\..\..\ref\PluginAPI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\..\..\ref\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\..\..\ref\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
       <HintPath>..\..\..\..\..\..\ref\UnityEngine.PhysicsModule.dll</HintPath>
